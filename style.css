@@ -6,7 +6,7 @@
 .container{
     height: 100vh;
     width: 100%;
-    background-color: rgb(255, 122, 233);
+    background-color: rgb(255, 39, 219);
 
     display: flex;
     justify-content: center;
@@ -29,7 +29,7 @@
 }
 
 .question-text {
-    color: white;
+    color: rgb(255, 255, 255);
 }
 
 
@@ -48,8 +48,8 @@ button {
     width: 100px;
     border: none;
     outline: none;
-    background-color: red;
-    color: white;
+    background-color: rgb(80, 227, 234);
+    color: rgb(0, 0, 0);
     border-radius: 20px;
     cursor: pointer;
     transition: all 0.3s;
