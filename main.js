@@ -33,5 +33,5 @@ NO_BUTTON.addEventListener("click", changePosition)
 YES_BUTTON.addEventListener("click", () => {
     IMG.setAttribute("src", "./yes.gif");
     INPUTS_BOX.setAttribute("style", "display:none;");
-    question_text.textContent = "Next date when my krishna ???"
+    question_text.textContent = "omg yay my pookie "
 })
